@@ -1,0 +1,2 @@
+NCBI version of our sequencing of the Japanese Lamprey is available here: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_018977245.1/
+Unfortunately NCBI did some processing of our assembly and gave a new set of numbers making it difficult to reconcile our annotations with the genome sequence they provide. If you compare carefully (e.g. the top 5 scaffolds/chromosomes) you will be able to establish a relationship between the two and renumber one of them. However, an easier way is to use our assembly and our annotation files provided here.
