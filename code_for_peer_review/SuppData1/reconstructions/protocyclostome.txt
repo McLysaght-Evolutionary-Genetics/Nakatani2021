@@ -1,0 +1,104 @@
+Pcc1A	Japanese Lamprey_22,Sea Lamprey_18,Japanese Lamprey_122,Sea Lamprey_117,Sea Lamprey_19
+Pcc1B	Japanese Lamprey_8,Sea Lamprey_16
+Pcc1C	Japanese Lamprey_25,Sea Lamprey_34,Sea Lamprey_126
+Pcc1D	Japanese Lamprey_38,Sea Lamprey_52,Sea Lamprey_172
+Pcc1E	Sea Lamprey_73,Japanese Lamprey_73,Japanese Lamprey_151
+Pcc1F	Sea Lamprey_90,Japanese Lamprey_97,Sea Lamprey_150,Japanese Lamprey_189
+Pcc2A	Sea Lamprey_28,Japanese Lamprey_63,Japanese Lamprey_128,Sea Lamprey_128,Japanese Lamprey_75
+Pcc2B	Japanese Lamprey_54,Sea Lamprey_70,Japanese Lamprey_164,Sea Lamprey_69
+Pcc2C	Sea Lamprey_76,Japanese Lamprey_74,Sea Lamprey_163
+Pcc2D	Sea Lamprey_81,Japanese Lamprey_91
+Pcc2E	Japanese Lamprey_93,Sea Lamprey_102,Sea Lamprey_109,Sea Lamprey_179
+Pcc3A	Sea Lamprey_94,Sea Lamprey_101,Japanese Lamprey_59,Japanese Lamprey_60,Japanese Lamprey_140
+Pcc3B	Japanese Lamprey_50,Sea Lamprey_10
+Pcc3C	Japanese Lamprey_58,Sea Lamprey_72
+Pcc3D	Japanese Lamprey_61,Sea Lamprey_13,Sea Lamprey_156
+Pcc3E	Sea Lamprey_21,Japanese Lamprey_37,Sea Lamprey_127,Japanese Lamprey_144
+Pcc3F	Sea Lamprey_4,Sea Lamprey_0,Japanese Lamprey_11,Sea Lamprey_6,Japanese Lamprey_154,Japanese Lamprey_20
+Pcc4A	Japanese Lamprey_87,Sea Lamprey_107,Sea Lamprey_12,Japanese Lamprey_88,Sea Lamprey_152
+Pcc4B	Sea Lamprey_92,Japanese Lamprey_96,Sea Lamprey_65,Japanese Lamprey_95,Japanese Lamprey_94
+Pcc4C	Sea Lamprey_93,Japanese Lamprey_104,Sea Lamprey_132
+Pcc4D	Japanese Lamprey_7
+Pcc4E	Sea Lamprey_162
+Pcc4F	Japanese Lamprey_26,Sea Lamprey_35
+Pcc5A	Japanese Lamprey_64,Sea Lamprey_86,Sea Lamprey_153,Sea Lamprey_176
+Pcc5B	Japanese Lamprey_81,Sea Lamprey_82
+Pcc5C	Sea Lamprey_119,Japanese Lamprey_65,Japanese Lamprey_157
+Pcc5D	Sea Lamprey_31
+Pcc5E	Sea Lamprey_50,Japanese Lamprey_47
+Pcc5F	Sea Lamprey_74,Japanese Lamprey_53
+Pcc5G	Japanese Lamprey_55
+Pcc6A	Japanese Lamprey_84,Sea Lamprey_11,Sea Lamprey_123
+Pcc6B	Japanese Lamprey_76,Sea Lamprey_91,Sea Lamprey_157
+Pcc6C	Japanese Lamprey_110,Sea Lamprey_103
+Pcc6D	Japanese Lamprey_42,Sea Lamprey_96,Sea Lamprey_192
+Pcc6E	Japanese Lamprey_134,Sea Lamprey_139
+Pcc6F	Sea Lamprey_151,Sea Lamprey_183,Sea Lamprey_187,Sea Lamprey_186,Sea Lamprey_29
+Pcc6G	Japanese Lamprey_187
+Pcc7A	Japanese Lamprey_48,Sea Lamprey_51,Sea Lamprey_130
+Pcc7B	Sea Lamprey_46,Japanese Lamprey_51
+Pcc7C	Japanese Lamprey_109,Sea Lamprey_110,Sea Lamprey_39,Japanese Lamprey_181,Sea Lamprey_191
+Pcc7D	Japanese Lamprey_14,Japanese Lamprey_18,Sea Lamprey_5
+Pcc7E	Japanese Lamprey_185
+Pcc7F	Sea Lamprey_195
+Pcc8A	Japanese Lamprey_49,Sea Lamprey_62,Sea Lamprey_188,Japanese Lamprey_98
+Pcc8B	Japanese Lamprey_71,Sea Lamprey_80,Sea Lamprey_166,Sea Lamprey_169,Sea Lamprey_79
+Pcc8C	Japanese Lamprey_46,Sea Lamprey_57
+Pcc8D	Japanese Lamprey_169,Sea Lamprey_165
+Pcc8E	Sea Lamprey_190
+Pcc8F	Sea Lamprey_33,Japanese Lamprey_24
+Pcc9A	Japanese Lamprey_28,Sea Lamprey_25
+Pcc9B	Sea Lamprey_42,Japanese Lamprey_82,Japanese Lamprey_111
+Pcc9C	Japanese Lamprey_39,Sea Lamprey_88
+Pcc9D	Japanese Lamprey_153
+Pcc10A	Sea Lamprey_40,Japanese Lamprey_68,Japanese Lamprey_125
+Pcc10B	Japanese Lamprey_52,Sea Lamprey_75,Sea Lamprey_144,Sea Lamprey_189
+Pcc10C	Sea Lamprey_67,Japanese Lamprey_70
+Pcc10D	Japanese Lamprey_78,Sea Lamprey_99,Sea Lamprey_120,Sea Lamprey_141,Sea Lamprey_160
+Pcc10E	Sea Lamprey_77,Japanese Lamprey_90
+Pcc10F	Japanese Lamprey_99,Sea Lamprey_108,Sea Lamprey_111,Japanese Lamprey_100,Sea Lamprey_145
+Pcc11A	Sea Lamprey_44,Japanese Lamprey_56,Japanese Lamprey_126,Japanese Lamprey_150,Sea Lamprey_181,Sea Lamprey_185
+Pcc11B	Sea Lamprey_15,Japanese Lamprey_92,Japanese Lamprey_135,Sea Lamprey_14,Japanese Lamprey_143
+Pcc11C	Sea Lamprey_97,Sea Lamprey_95,Japanese Lamprey_41,Japanese Lamprey_40,Japanese Lamprey_43,Sea Lamprey_87,Sea Lamprey_171
+Pcc11D	Sea Lamprey_2,Japanese Lamprey_12,Japanese Lamprey_130
+Pcc11E	Sea Lamprey_106,Japanese Lamprey_121,Sea Lamprey_180
+Pcc11F	Sea Lamprey_167,Japanese Lamprey_179
+Pcc11G	Sea Lamprey_147,Sea Lamprey_9
+Pcc11H	Japanese Lamprey_165
+Pcc12A	Japanese Lamprey_35,Sea Lamprey_22,Sea Lamprey_20,Japanese Lamprey_172,Japanese Lamprey_36,Japanese Lamprey_103,Sea Lamprey_115,Sea Lamprey_174
+Pcc12B	Sea Lamprey_59,Japanese Lamprey_83,Sea Lamprey_60,Japanese Lamprey_86,Japanese Lamprey_148,Japanese Lamprey_160,Sea Lamprey_178
+Pcc12C	Sea Lamprey_61,Japanese Lamprey_66
+Pcc12D	Sea Lamprey_7,Japanese Lamprey_15,Japanese Lamprey_13,Sea Lamprey_3,Japanese Lamprey_17,Japanese Lamprey_21,Japanese Lamprey_190,Sea Lamprey_1,Sea Lamprey_8
+Pcc12E	Sea Lamprey_170
+Pcc13A	Sea Lamprey_17,Japanese Lamprey_4,Japanese Lamprey_139
+Pcc13B	Japanese Lamprey_32,Sea Lamprey_37,Sea Lamprey_118,Japanese Lamprey_31,Japanese Lamprey_180,Sea Lamprey_36,Sea Lamprey_43
+Pcc13C	Sea Lamprey_68,Japanese Lamprey_77,Japanese Lamprey_127
+Pcc13D	Japanese Lamprey_80,Sea Lamprey_100,Sea Lamprey_114,Japanese Lamprey_79,Sea Lamprey_134,Sea Lamprey_164
+Pcc13E	Sea Lamprey_104,Japanese Lamprey_102,Sea Lamprey_113,Japanese Lamprey_101,Sea Lamprey_161,Japanese Lamprey_178
+Pcc13F	Japanese Lamprey_23,Japanese Lamprey_184
+Pcc14A	Japanese Lamprey_62,Sea Lamprey_63,Japanese Lamprey_174,Sea Lamprey_177
+Pcc14B	Sea Lamprey_78,Japanese Lamprey_85,Japanese Lamprey_145
+Pcc14C	Sea Lamprey_89,Japanese Lamprey_0,Japanese Lamprey_3
+Pcc14D	Sea Lamprey_121
+Pcc15A	Japanese Lamprey_45,Sea Lamprey_58,Sea Lamprey_146
+Pcc15B	Sea Lamprey_85,Japanese Lamprey_106,Japanese Lamprey_137,Sea Lamprey_138,Japanese Lamprey_177
+Pcc15C	Japanese Lamprey_30,Sea Lamprey_30,Sea Lamprey_155
+Pcc15D	Sea Lamprey_105,Japanese Lamprey_141,Japanese Lamprey_162,Japanese Lamprey_72
+Pcc15E	Japanese Lamprey_138,Sea Lamprey_184
+Pcc15F	Sea Lamprey_142,Japanese Lamprey_163
+Pcc15G	Sea Lamprey_159,Sea Lamprey_173
+Pcc15H	Japanese Lamprey_183
+Pcc15I	Sea Lamprey_26,Japanese Lamprey_27
+Pcc16A	Japanese Lamprey_89,Sea Lamprey_54,Japanese Lamprey_117,Sea Lamprey_56,Japanese Lamprey_131,Sea Lamprey_55,Sea Lamprey_175,Sea Lamprey_197
+Pcc16B	Japanese Lamprey_29,Sea Lamprey_32
+Pcc16C	Japanese Lamprey_1,Sea Lamprey_122
+Pcc16D	Sea Lamprey_23,Japanese Lamprey_9
+Pcc16E	Sea Lamprey_196
+Pcc16F	Sea Lamprey_66,Japanese Lamprey_69
+Pcc17A	Japanese Lamprey_10,Sea Lamprey_24,Sea Lamprey_125,Japanese Lamprey_182,Sea Lamprey_194,Japanese Lamprey_186
+Pcc17B	Japanese Lamprey_34,Sea Lamprey_38,Sea Lamprey_129,Japanese Lamprey_175
+Pcc17C	Japanese Lamprey_6,Sea Lamprey_71,Sea Lamprey_116,Sea Lamprey_131
+Pcc17D	Japanese Lamprey_44,Sea Lamprey_47
+Pcc17E	Sea Lamprey_49,Japanese Lamprey_5,Japanese Lamprey_155,Japanese Lamprey_158,Sea Lamprey_48
+Pcc17F	Sea Lamprey_98,Japanese Lamprey_105,Sea Lamprey_137,Japanese Lamprey_170
+Pcc18A	Japanese Lamprey_168,Japanese Lamprey_167,Japanese Lamprey_116,Japanese Lamprey_16,Japanese Lamprey_19,Japanese Lamprey_2,Japanese Lamprey_147,Japanese Lamprey_136,Japanese Lamprey_115,Japanese Lamprey_107,Japanese Lamprey_112,Japanese Lamprey_118,Japanese Lamprey_142,Japanese Lamprey_129,Japanese Lamprey_108,Japanese Lamprey_67,Japanese Lamprey_188,Sea Lamprey_193,Sea Lamprey_182,Sea Lamprey_168,Sea Lamprey_158,Sea Lamprey_154,Sea Lamprey_149,Sea Lamprey_148,Sea Lamprey_143,Sea Lamprey_140,Sea Lamprey_136,Sea Lamprey_135,Sea Lamprey_133,Sea Lamprey_124,Sea Lamprey_112,Sea Lamprey_83,Sea Lamprey_41,Sea Lamprey_27
